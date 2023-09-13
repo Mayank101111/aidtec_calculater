@@ -1,1 +1,1 @@
-# aidtec_calculater
+# aidtec_calculator
